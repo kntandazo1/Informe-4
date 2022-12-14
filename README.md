@@ -9,11 +9,13 @@ NRC: 10067
 ## 1. OBJETIVOS:
 OBJETIVOS GENERALES:
 
-
+Identificar las relaciones que existen en un circuito serie-paralelo.
 
 OBJETIVOS ESPECÍFICOS:
 
+Comprender el Teorema de Thevenin y Norton.
 
+Entender las transformaciones Y-Delta y Delta-Y.
 
 ## 2. MARCO TEÓRICO:
 
@@ -39,24 +41,37 @@ OBJETIVOS ESPECÍFICOS:
  
  2. Visualice y trace los siguientes circuitos en serie-paralelo:
 (a) Una combinación en paralelo de tres ramas, cada rama con dos resistores en serie
+
+![image](https://user-images.githubusercontent.com/117767335/207685046-05d920f7-46e2-47be-9981-1d51dfafe458.png)
+
 (b) Una combinación serie de tres circuitos en paralelo, cada circuito con dos resistores
+
+![image](https://user-images.githubusercontent.com/117767335/207686501-a8eb6283-a9f8-4bef-86bd-714c1d3854f0.png)
 
 4. En cada uno de los circuitos de la figura 7-63, identifique las relaciones en serie-paralelo de los resistores
 vistas desde la fuente.
 
 ![image](https://user-images.githubusercontent.com/117767335/207508492-f3afc42e-9404-455d-9051-6338e128444e.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207688269-4ec65fda-1add-48dd-9c51-fb2a36a8e781.png)
+
 6. Desarrolle un diagrama esquemático de la tarjeta de circuito impreso de doble cara mostrada en la figura
 7-65, y marque los valores de resistor.
 
 ![image](https://user-images.githubusercontent.com/117767335/207508659-7b519a3a-e53f-40a1-9df6-7484247aaa64.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207692346-0e371a91-362f-4ea8-b677-7eed39d90679.png)
 
 #### SECCIÓN 7–2 Análisis de circuitos resistivos en serie-paralelo
 
 8. Un cierto circuito se compone de dos resistores en paralelo. La resistencia total es de 667 Æ. Uno de
 los resistores es de 1.0 kÆ. ¿Cuál es el otro resistor?
 
+![image](https://user-images.githubusercontent.com/117767335/207692915-9857832c-4ac9-4d44-adb0-5f1f225f81f6.png)
+
 10. Repita el problema 9 para cada uno de los circuitos mostrados en la figura 7-63.
+
+![image](https://user-images.githubusercontent.com/117767335/207694860-8cc4afa0-8672-4730-8059-51686fe9da31.png)
 
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
@@ -247,7 +262,11 @@ de potencia máxima en el circuito de la figura 8-86?
 
 ## 4. VIDEO:
 
+
 ## 5. CONCLUSIONES:
+
+Los teoremas aprendidos y las transformaciones aprendidos, nos permiten desarrollar de manera precisa y correcta
+los ejercicios planteados.
 
 ## 6. BIBLIOGRAFÍA:
 
