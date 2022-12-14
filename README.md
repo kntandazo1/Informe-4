@@ -191,9 +191,13 @@ de la figura 7-62(b).
 46. Se conecta un resistor de valor desconocido a un circuito puente Wheatstone. Los parámetros del puente
 en equilibrio se establecen como sigue: RV 5 18 kÆ y R2/R4 5 0.02. ¿Cuál es RX?
 
+![image](https://user-images.githubusercontent.com/117767335/207716303-2e498941-f220-4803-8c67-6a129502562b.png)
+
 48. Determine el voltaje de salida para el puente desequilibrado mostrado en la figura 7-83 a una temperatura
 de 60oC. La característica de resistencia según la temperatura del termistor se muestra en la figura
 7-60.
+
+![image](https://user-images.githubusercontent.com/117767335/207716433-da180aa0-1668-4382-bdfd-13b76a33414f.png)
 
 #### SECCIÓN 7–7 Localización de fallas
 
@@ -201,13 +205,19 @@ de 60oC. La característica de resistencia según la temperatura del termistor s
 
 ![image](https://user-images.githubusercontent.com/117767335/207510921-82f18e9a-86d9-43bf-8b8c-be0d5ff368e3.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207716645-967ef6c0-6cb2-4219-ab1b-8909ec06991f.png)
+
 52. Vea los medidores ilustrados en la figura 7-87 y determine si hay una falla en el circuito. Si la hay, identifíquela.
 
 ![image](https://user-images.githubusercontent.com/117767335/207510991-aaa25cfe-2e9a-4ce2-9dc6-b7d596fca1e1.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207717177-72086343-c1b1-47c4-98b9-0f6948723b2f.png)
+
 54. Si en la figura 7-89 R2 se abre, ¿qué voltajes se leerán en los puntos A, B y C?
 
 ![image](https://user-images.githubusercontent.com/117767335/207511055-b0588275-c777-42e1-9e61-70c04e894fb8.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207717390-3499c16d-5e45-4a5c-aa05-cd525782993d.png)
 
 ### CAPÍTULO 8
 
@@ -217,11 +227,17 @@ de 60oC. La característica de resistencia según la temperatura del termistor s
 
 ![image](https://user-images.githubusercontent.com/117767335/207511298-e45e76eb-2e73-4678-966e-cd8a65f97d05.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207717978-915e0560-f83b-4e56-a773-88be80e5c586.png)
+
 4. Trace los circuitos equivalentes de fuentes de voltaje y corriente para la batería tipo D del problema 3.
+
+![image](https://user-images.githubusercontent.com/117767335/207718454-f3a74ef8-e1bc-4d78-a4a2-ea525fa62f3a.png)
 
 6. Convierta las fuentes de corriente prácticas de la figura 8-68 en fuentes de voltaje equivalentes.
 
 ![image](https://user-images.githubusercontent.com/117767335/207511440-0af6ef7b-66cd-4a3b-9a59-684504f4f6a6.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207718675-8b1bc87e-ca13-47b8-98dd-e461d7f7051d.png)
 
 #### SECCIÓN 8–4 El teorema de superposición
 
@@ -230,12 +246,21 @@ de la rama R2 de la figura 8-69.
 
 ![image](https://user-images.githubusercontent.com/117767335/207511608-8b0d9ea1-9b90-4a74-9388-d48d623ceb32.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207718868-f78e7ed2-06a3-4300-896d-c2777c08ae79.png)
+
 10. Con el teorema de superposición, determine la corriente de carga en cada uno de los circuitos mostrados
 en la figura 8-71.
 
 ![image](https://user-images.githubusercontent.com/117767335/207511722-336c3e1d-7f9d-426f-b7e1-df3ebf316480.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207719044-5009c777-36c6-45a4-b06f-7f9584d00a59.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207719302-f2ec2c69-6ef2-4f39-b913-f95c6c70e7b5.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207719710-ab8b245e-d2ee-4e42-ab2b-bae23b9f3a10.png)
+
 12. Repita el problema 11 si R2 es de 10 kÆ.
+
 
 14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente
 a través de R4 después del cierre de cada interruptor.
