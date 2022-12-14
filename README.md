@@ -76,30 +76,46 @@ los resistores es de 1.0 kÆ. ¿Cuál es el otro resistor?
 12. Determine la corriente a través de cada resistor en cada circuito de la figura 7-63; luego calcule cada
 caída de voltaje.
 
+![image](https://user-images.githubusercontent.com/117767335/207697464-c66cc1c2-644c-47ff-be4a-95d7a67ae40f.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207696972-9372118b-61b3-4bf1-b1ee-4df37908a8ce.png)
+
 14. Determine la resistencia entre A y B en la figura 7-67 sin la fuente.
 
 ![image](https://user-images.githubusercontent.com/117767335/207509271-f4be517f-8698-4776-b88c-af19a789d2bb.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207697852-2820a050-a09b-4026-bafc-e1fb77387974.png)
 
 16. Determine el voltaje en cada nodo con respecto a tierra en la figura 7-68.
 
 ![image](https://user-images.githubusercontent.com/117767335/207509338-9a9669b0-288e-4a96-8399-c7f06214b702.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207699050-cff5b17a-f340-476b-a609-eb3cf84949a1.png)
+
 18. Determine la resistencia del circuito mostrado en la figura 7-67 como se ve desde la fuente de voltaje.
 
 ![image](https://user-images.githubusercontent.com/117767335/207509271-f4be517f-8698-4776-b88c-af19a789d2bb.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207700542-d405fc2f-1f89-408c-b949-f3e93328a428.png)
+
 20. Determine el voltaje, VAB, en la figura 7-69.
 
 ![image](https://user-images.githubusercontent.com/117767335/207509446-7e8bf67e-92a1-4702-ba0e-24c498526293.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207700799-421457bc-e436-49ca-9f88-8c250813ac4e.png)
 
 22. En la figura 7-71, determine la resistencia entre el nodo A y cada uno de los demás nodos (RAB, RAC,
 RAD, RAE, RAF, y RAG).
 
 ![image](https://user-images.githubusercontent.com/117767335/207509557-aaea0147-f55a-4433-a4be-af9b41d5d139.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207702666-3fea0147-0bbe-4df2-bc64-ee6d3a4250a1.png)
+
 24. Determine el valor de cada resistor mostrado en la figura 7-73.
 
 ![image](https://user-images.githubusercontent.com/117767335/207509672-3a775116-019e-469b-8404-fb54143a4158.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207704769-d07d305d-f680-4348-97fa-ec4b2782d793.png)
 
 #### SECCIÓN 7–3 Divisores de voltaje con cargas resistivas
 
@@ -107,24 +123,34 @@ RAD, RAE, RAF, y RAG).
 de 3.3 kÆ para proporcionar dos tomas. Determine los voltajes de salida. Si se conecta una carga
 de 10 kÆ a la más alta de las salidas, ¿cuál será su valor con carga?
 
+![image](https://user-images.githubusercontent.com/117767335/207705597-55a76a9d-371c-4e8c-b142-a6cf3a8d9b85.png)
+
 28. En la figura 7-74, determine el voltaje de salida sin carga entre las terminales de salida. Con una carga
 de 100 kÆ conectada de A a B, ¿cuál es el voltaje de salida?
 
 ![image](https://user-images.githubusercontent.com/117767335/207509911-acb4d58f-2bc3-4b47-a7f0-4c96e8b3ad45.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207710000-d2b8790d-5b24-4b02-9486-599a44ac66ac.png)
 
 30. En la figura 7-74, determine la corriente continua extraída de la fuente sin carga entre las terminales de
 salida. Con una carga de 33 kÆ, ¿cuál es la corriente extraída?
 
 ![image](https://user-images.githubusercontent.com/117767335/207509919-ff45982d-482a-4666-8396-9811d074ccb6.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207710376-bd3bebde-3ef9-46cb-875c-15972757a6fb.png)
+
 32. El divisor de voltaje de la figura 7-75 tiene una carga controlada por interruptor. Determine el voltaje
 en cada toma (V1, V2 y V3) para cada posición del interruptor.
 
 ![image](https://user-images.githubusercontent.com/117767335/207509997-6f5fdfbc-8af2-4b16-9d58-63c4dccc0f06.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207711829-4eea5adf-4c77-4f9d-9fb4-47fbccc0859e.png)
+
 34. Diseñe un divisor de voltaje que produzca una salida de 6 V sin carga y un mínimo de 5.5 V entre los
 extremos de una carga de 1.0 kÆ. El voltaje de fuente es de 24 V y la corriente extraída sin carga no
 debe exceder de 100 mA.
+
+![image](https://user-images.githubusercontent.com/117767335/207712255-0143aee8-cce2-42c0-9853-5e9c275012f5.png)
 
 #### SECCIÓN 7–4 Efecto de carga de un voltímetro
 
@@ -132,8 +158,12 @@ debe exceder de 100 mA.
 de intervalo.
 (a) 0.5 V (b) 1 V (c) 5 V (d) 50 V (e) 100 V (f) 1000 V
 
+![image](https://user-images.githubusercontent.com/117767335/207712986-16f6e244-d137-4223-80ec-5a551d394372.png)
+
 38. Repita el problema 37 si se utiliza el voltímetro para medir voltaje entre los extremos de R4 en el circuito
 de la figura 7-62(b).
+
+![image](https://user-images.githubusercontent.com/117767335/207713913-20b79330-3709-40ed-ba24-7b433795bbde.png)
 
 #### SECCIÓN 7–5 Redes en escalera
 
@@ -142,15 +172,19 @@ de la figura 7-62(b).
 
 ![image](https://user-images.githubusercontent.com/117767335/207510495-3c84b999-ba6c-4792-8976-ef466bd45942.png)
 
-42. En la figura 7-79, ¿cuál es el voltaje entre los extremos de cada resistor con 10 V entre A y B?
-
-![image](https://user-images.githubusercontent.com/117767335/207510587-b171e462-6327-4884-af28-496c293365db.png)
+![image](https://user-images.githubusercontent.com/117767335/207714625-09454c42-cb5d-4e85-9b18-ac407d692394.png)
 
 44. Determine VSALIDA para la red R/2R en escalera mostrada en la figura 7-81 para las siguientes condiciones:
-(a) Interruptor SW2 conectado a 112 V y los demás conectados a tierra
-(b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
 
 ![image](https://user-images.githubusercontent.com/117767335/207510686-6801bb27-ec22-4c33-9822-608639c98558.png)
+
+(a) Interruptor SW2 conectado a 112 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/117767335/207715025-5f544bc0-aa5b-4cba-909e-832d58a5ff62.png)
+
+(b) Interruptor SW1 conectado a 112 V y los demás conectados a tierra
+
+![image](https://user-images.githubusercontent.com/117767335/207715308-5bcb8e13-13f9-4d98-91b2-624c3d5d0230.png)
 
 #### SECCIÓN 7–6 El puente Wheatstone
 
