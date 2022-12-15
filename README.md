@@ -259,13 +259,11 @@ en la figura 8-71.
 
 ![image](https://user-images.githubusercontent.com/117767335/207719710-ab8b245e-d2ee-4e42-ab2b-bae23b9f3a10.png)
 
-12. Repita el problema 11 si R2 es de 10 kÆ.
+![image](https://user-images.githubusercontent.com/117767335/207733279-758a0fb2-ca93-4029-83df-cdeb9b435595.png)
 
+12. Repita el problema 11 si R2 es de 10 kOHM.
 
-14. Los interruptores mostrados en la figura 8-74 se cierran en secuencia, SW1 primero. Determine la corriente
-a través de R4 después del cierre de cada interruptor.
-
-![image](https://user-images.githubusercontent.com/117767335/207511923-84e98f3e-7574-480c-9a1e-0eb7301a77f1.png)
+![image](https://user-images.githubusercontent.com/117767335/207733699-48ebad6a-8017-4b3f-aea0-3812110094cd.png)
 
 #### SECCIÓN 8–5 Teorema de Thevenin
 
@@ -274,30 +272,44 @@ las terminales A y B.
 
 ![image](https://user-images.githubusercontent.com/117767335/207512084-f7dc9e98-19e3-46d6-955d-70eba5780ccf.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207759657-03f3963b-af6f-4ca9-a107-e1b0e81090b8.png)
+
 18. Con el teorema de Thevenin, determine el voltaje entre los extremos de R4 en la figura 8-78.
 
 ![image](https://user-images.githubusercontent.com/117767335/207512176-edee11d2-8aa0-4077-88f2-c8bb28de754d.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207759757-8c5bdafd-b5e6-4316-9cf1-854b976ebb77.png)
+
 20. Determine la corriente que se dirige al punto A cuando R8 es de 1.0 kÆ, 5 kÆ, y 10 kÆ en la figura 8-80.
 
 ![image](https://user-images.githubusercontent.com/117767335/207512257-bee76e9f-c16b-47c5-b4b6-c5bce38f8f2f.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207747901-166104f7-f5d7-430d-81f5-dc7a857a6235.png)
 
 22. Determine el equivalente de Thevenin del circuito mostrado en la figura 8-82 visto desde las terminales
 A y B.
 
 ![image](https://user-images.githubusercontent.com/117767335/207512321-f351d1a9-1fa3-4080-ab95-d0302539a990.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207745424-c038f9fd-f05b-4a23-81d4-5c5e58e148e7.png)
+
 #### SECCIÓN 8–6 Teorema de Norton
 
 24. Con el teorema de Norton, determine la corriente que circula a través del resistor de carga RL en la figura
 8-77.
 
+![image](https://user-images.githubusercontent.com/117767335/207747304-69a16a58-a4cc-49a9-89aa-a089dccf2d3c.png)
+
 26. Con el teorema de Norton, determine la corriente que circula a través de R1 en la figura 8-80 cuando
 R8 5 8 kÆ.
+
+![image](https://user-images.githubusercontent.com/117767335/207746201-243f1a07-6304-49b9-a374-73aba4c2fb2a.png)
 
 28. En la figura 8-83, reduzca el circuito entre las terminales A y B a su equivalente Norton.
 
 ![image](https://user-images.githubusercontent.com/117767335/207512547-a1dd7f6a-3614-4dc8-94fb-eed507b0ed4e.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207745424-c038f9fd-f05b-4a23-81d4-5c5e58e148e7.png)
 
 #### SECCIÓN 8–7 Teorema de transferencia de potencia máxima
 
@@ -306,10 +318,14 @@ el valor apropiado de RL en cada caso.
 
 ![image](https://user-images.githubusercontent.com/117767335/207512758-b869ff25-a364-4514-a676-3ee692445486.png)
 
+![image](https://user-images.githubusercontent.com/117767335/207734819-37262c62-849c-4fed-b9dc-4dd4415407a9.png)
+
 32. ¿Cuánta potencia se suministra a la carga cuando RL es un 10% más alta que su valor para transferencia
 de potencia máxima en el circuito de la figura 8-86?
 
 ![image](https://user-images.githubusercontent.com/117767335/207512842-355b64a5-8132-483f-9be2-43afba8aa7fa.png)
+
+![image](https://user-images.githubusercontent.com/117767335/207744922-d5399756-0dd7-4112-a831-23eac541e2d1.png)
 
 #### SECCIÓN 8–8 Conversiones delta a Y (D a Y) y Y a D
 
@@ -317,7 +333,7 @@ de potencia máxima en el circuito de la figura 8-86?
 
 ![image](https://user-images.githubusercontent.com/117767335/207512923-8616aec6-111a-499b-b52e-af9e2a2feb90.png)
 
-
+![image](https://user-images.githubusercontent.com/117767335/207734618-d109e264-535f-44b7-92e7-503b8710dd79.png)
 
 ## 4. VIDEO:
 
