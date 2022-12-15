@@ -337,11 +337,13 @@ de potencia máxima en el circuito de la figura 8-86?
 
 ## 4. VIDEO:
 
+https://youtu.be/2eudmSl2hTQ
 
 ## 5. CONCLUSIONES:
 
-Los teoremas aprendidos y las transformaciones aprendidos, nos permiten desarrollar de manera precisa y correcta
+Los teoremas aprendidos y las transformaciones Y-Delta y Delta-Y aprendidos, nos permiten desarrollar de manera precisa y correcta
 los ejercicios planteados.
+El conocer cada uno de estos teoremas es esencial ya que nos ayudan a la realización de los ejercicios.
 
 ## 6. BIBLIOGRAFÍA:
 
