@@ -343,6 +343,7 @@ https://youtu.be/2eudmSl2hTQ
 
 Los teoremas aprendidos y las transformaciones Y-Delta y Delta-Y aprendidos, nos permiten desarrollar de manera precisa y correcta
 los ejercicios planteados.
+
 El conocer cada uno de estos teoremas es esencial ya que nos ayudan a la realización de los ejercicios.
 
 ## 6. BIBLIOGRAFÍA:
